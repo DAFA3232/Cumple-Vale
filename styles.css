@@ -1,0 +1,69 @@
+.carousel {
+  position: relative;
+  margin: 50px auto;
+  align-items: center;
+  width: 50%;
+  height: 55%;
+  border-radius: 15px;
+  border-color: black;
+  overflow: hidden;
+}
+
+.carousel-image {
+  align-items: center  ;
+  margin: 50px auto;
+  width: 50%;
+  height: 55%;
+  border-radius: 15px;
+  border-color: black;
+  display: none;
+}
+
+.card {
+  width: 70%;
+  background: linear-gradient(to bottom, #FFB6C1, #FF69B4);
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 75px;
+  color: #FEFDEB;
+}
+
+p {
+  font-size: 50px;
+  Color: #FEFDEB;
+}
+
+button {
+  background-color: #F57823;
+  margin: 50px auto;
+  color: white;
+  border-radius: 15px;
+  padding: 25px 235px;
+  margin-top: 20px;
+  cursor: pointer;
+  font-size: 50px;
+  
+}
+
+.signature {
+  font-style: italic;
+  font-size: 25px;
+  float: right;
+  color: #FEFDEB;
+  margin-top: 10px;
+}
+
+.rounded-video {
+  border-radius: 15px;
+  border-color: black;
+  width: 70%;
+  display: block;
+  margin: 50px auto;
+}
